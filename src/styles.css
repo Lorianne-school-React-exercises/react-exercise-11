@@ -1,0 +1,17 @@
+body {
+  font-family: Segoe UI;
+  margin: 20px;
+  color: orange;
+  font-size: 20px;
+  background-color: black;
+}
+h1 {
+  color: rgb(43, 112, 241);
+}
+input {
+  border-color: orange;
+  background-color: rgb(255, 255, 122);
+  padding: 5px;
+  border-radius: 5px;
+  color: rgb(107, 113, 192);
+}
