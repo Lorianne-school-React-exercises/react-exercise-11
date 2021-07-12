@@ -1,3 +1,16 @@
+
+# 💪 Challenge: Synchronising display with input
+
+### 🧐 Validation criteria
+ - The provided link points to your fork of the template on https://codesandbox.io.
+ - The `<h1>` field must change along with the value in the <input>.
+ - The value of the `<input>` is not fixed and comes from the state.
+ - The value of the `<input>` is updated using the event handler associated with onChange.
+ - The * character is not displayed when it is entered.
+
+
+# Information included in original file:
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
