@@ -8,5 +8,8 @@
  - The value of the `<input>` is updated using the event handler associated with onChange.
  - The * character is not displayed when it is entered.
 
+Result:
+
+![0](https://user-images.githubusercontent.com/78496780/126077000-4ff40317-472b-4db4-bb74-1a6c66b5b640.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
